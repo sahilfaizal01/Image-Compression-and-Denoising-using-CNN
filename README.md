@@ -15,4 +15,9 @@ Noisy Image -> Encoder -> Compressed Representation -> Decoder -> Reconstruct Cl
 ![image](https://user-images.githubusercontent.com/106440078/212258787-9c5b4bb4-2a49-4259-b1bd-749e7fa0b350.png)
 
 ## Denoising function output:
+### Noisy vs Processed
 ![image](https://user-images.githubusercontent.com/106440078/212258876-e10d2fbe-50f6-4b05-a7f4-f8ec69186ec6.png)
+
+## Image Compression output:
+### Original vs Compressed
+![image](https://user-images.githubusercontent.com/106440078/212345614-1215151a-408c-4fd8-9307-81e61a1062b6.png)
